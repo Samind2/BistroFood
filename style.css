@@ -80,7 +80,7 @@ body {
   gap: 10px;
 }
 .main-screen .recipe-list > .item {
-  border: 1px solid #e0dbdb;
+  border: 1px solid #408E91;
   border-radius: 5%;
   box-shadow: 1.5px 1.5px 7px #5dc9cd;
   width: calc(calc(100% / 2)- 5px);
